@@ -1,0 +1,35 @@
+D:\Visual Studio的工程文件\SJmedia\DALFactory\bin\Debug\DALFactory.dll
+D:\Visual Studio的工程文件\SJmedia\DALFactory\bin\Debug\DALFactory.pdb
+D:\Visual Studio的工程文件\SJmedia\DALFactory\bin\Debug\IDataAccessLayer.dll
+D:\Visual Studio的工程文件\SJmedia\DALFactory\bin\Debug\IDataAccessLayer.pdb
+D:\Visual Studio的工程文件\SJmedia\DALFactory\obj\Debug\DALFactory.dll
+D:\Visual Studio的工程文件\SJmedia\DALFactory\obj\Debug\DALFactory.pdb
+D:\Visual Studio的工程文件\SJmedia\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\Visual Studio的工程文件\SJmedia\DALFactory\bin\Debug\Model.dll
+D:\Visual Studio的工程文件\SJmedia\DALFactory\bin\Debug\Model.pdb
+D:\Visual Studio的工程文件\SJmedia\DALFactory\bin\Debug\SQLSeverDAL.dll
+D:\Visual Studio的工程文件\SJmedia\DALFactory\bin\Debug\SQLSeverDAL.pdb
+C:\Users\Administrator\Desktop\SJmedia\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\Administrator\Desktop\SJmedia\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\Administrator\Desktop\SJmedia\DALFactory\bin\Debug\IDataAccessLayer.dll
+C:\Users\Administrator\Desktop\SJmedia\DALFactory\bin\Debug\SQLSeverDAL.dll
+C:\Users\Administrator\Desktop\SJmedia\DALFactory\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\SJmedia\DALFactory\bin\Debug\IDataAccessLayer.pdb
+C:\Users\Administrator\Desktop\SJmedia\DALFactory\bin\Debug\SQLSeverDAL.pdb
+C:\Users\Administrator\Desktop\SJmedia\DALFactory\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\SJmedia\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SJmedia\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\Administrator\Desktop\SJmedia\DALFactory\obj\Debug\DALFactory.pdb
+F:\SJmedia\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+F:\SJmedia\DALFactory\obj\Debug\DALFactory.pdb
+F:\SJmedia\DALFactory\bin\Debug\DALFactory.dll
+F:\SJmedia\DALFactory\bin\Debug\DALFactory.pdb
+F:\SJmedia\DALFactory\bin\Debug\IDataAccessLayer.dll
+F:\SJmedia\DALFactory\bin\Debug\SQLSeverDAL.dll
+F:\SJmedia\DALFactory\bin\Debug\Model.dll
+F:\SJmedia\DALFactory\bin\Debug\IDataAccessLayer.pdb
+F:\SJmedia\DALFactory\bin\Debug\SQLSeverDAL.pdb
+F:\SJmedia\DALFactory\bin\Debug\Model.pdb
+F:\SJmedia\DALFactory\obj\Debug\DALFactory.dll
+F:\SJmedia\DALFactory\bin\Debug\Common.dll
+F:\SJmedia\DALFactory\bin\Debug\Common.pdb

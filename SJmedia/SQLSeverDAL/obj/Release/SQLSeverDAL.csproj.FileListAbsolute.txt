@@ -1,0 +1,11 @@
+F:\SJmedia\SQLSeverDAL\bin\Release\SQLSeverDAL.dll
+F:\SJmedia\SQLSeverDAL\bin\Release\SQLSeverDAL.pdb
+F:\SJmedia\SQLSeverDAL\bin\Release\Common.dll
+F:\SJmedia\SQLSeverDAL\bin\Release\IDataAccessLayer.dll
+F:\SJmedia\SQLSeverDAL\bin\Release\Model.dll
+F:\SJmedia\SQLSeverDAL\bin\Release\Common.pdb
+F:\SJmedia\SQLSeverDAL\bin\Release\IDataAccessLayer.pdb
+F:\SJmedia\SQLSeverDAL\bin\Release\Model.pdb
+F:\SJmedia\SQLSeverDAL\obj\Release\SQLSeverDAL.csprojResolveAssemblyReference.cache
+F:\SJmedia\SQLSeverDAL\obj\Release\SQLSeverDAL.dll
+F:\SJmedia\SQLSeverDAL\obj\Release\SQLSeverDAL.pdb

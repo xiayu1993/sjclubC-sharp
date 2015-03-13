@@ -1,0 +1,16 @@
+F:\SJmedia\BusinessLogicLayer\bin\Release\BusinessLogicLayer.dll
+F:\SJmedia\BusinessLogicLayer\bin\Release\BusinessLogicLayer.pdb
+F:\SJmedia\BusinessLogicLayer\bin\Release\AjaxControlToolkit.dll
+F:\SJmedia\BusinessLogicLayer\bin\Release\Common.dll
+F:\SJmedia\BusinessLogicLayer\bin\Release\DALFactory.dll
+F:\SJmedia\BusinessLogicLayer\bin\Release\IDataAccessLayer.dll
+F:\SJmedia\BusinessLogicLayer\bin\Release\Model.dll
+F:\SJmedia\BusinessLogicLayer\bin\Release\SQLSeverDAL.dll
+F:\SJmedia\BusinessLogicLayer\bin\Release\Common.pdb
+F:\SJmedia\BusinessLogicLayer\bin\Release\DALFactory.pdb
+F:\SJmedia\BusinessLogicLayer\bin\Release\IDataAccessLayer.pdb
+F:\SJmedia\BusinessLogicLayer\bin\Release\Model.pdb
+F:\SJmedia\BusinessLogicLayer\bin\Release\SQLSeverDAL.pdb
+F:\SJmedia\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+F:\SJmedia\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
+F:\SJmedia\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb

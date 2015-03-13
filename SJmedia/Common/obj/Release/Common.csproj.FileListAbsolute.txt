@@ -1,0 +1,4 @@
+F:\SJmedia\Common\bin\Release\Common.dll
+F:\SJmedia\Common\bin\Release\Common.pdb
+F:\SJmedia\Common\obj\Release\Common.dll
+F:\SJmedia\Common\obj\Release\Common.pdb

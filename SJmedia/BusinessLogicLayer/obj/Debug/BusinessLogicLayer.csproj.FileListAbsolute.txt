@@ -1,0 +1,44 @@
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\bin\Debug\AjaxControlToolkit.dll
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\bin\Debug\DALFactory.dll
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\bin\Debug\IDataAccessLayer.dll
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\bin\Debug\Model.dll
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\bin\Debug\SQLSeverDAL.dll
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\bin\Debug\DALFactory.pdb
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\bin\Debug\IDataAccessLayer.pdb
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\bin\Debug\Model.pdb
+D:\Visual Studio的工程文件\SJmedia\BusinessLogicLayer\bin\Debug\SQLSeverDAL.pdb
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\bin\Debug\DALFactory.dll
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\bin\Debug\IDataAccessLayer.dll
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\bin\Debug\SQLSeverDAL.dll
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\bin\Debug\DALFactory.pdb
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\bin\Debug\IDataAccessLayer.pdb
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\bin\Debug\SQLSeverDAL.pdb
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Administrator\Desktop\SJmedia\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+F:\SJmedia\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+F:\SJmedia\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+F:\SJmedia\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\SJmedia\BusinessLogicLayer\bin\Debug\AjaxControlToolkit.dll
+F:\SJmedia\BusinessLogicLayer\bin\Debug\DALFactory.dll
+F:\SJmedia\BusinessLogicLayer\bin\Debug\IDataAccessLayer.dll
+F:\SJmedia\BusinessLogicLayer\bin\Debug\Model.dll
+F:\SJmedia\BusinessLogicLayer\bin\Debug\SQLSeverDAL.dll
+F:\SJmedia\BusinessLogicLayer\bin\Debug\DALFactory.pdb
+F:\SJmedia\BusinessLogicLayer\bin\Debug\IDataAccessLayer.pdb
+F:\SJmedia\BusinessLogicLayer\bin\Debug\Model.pdb
+F:\SJmedia\BusinessLogicLayer\bin\Debug\SQLSeverDAL.pdb
+F:\SJmedia\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+F:\SJmedia\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+F:\SJmedia\BusinessLogicLayer\bin\Debug\Common.dll
+F:\SJmedia\BusinessLogicLayer\bin\Debug\Common.pdb

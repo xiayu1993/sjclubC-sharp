@@ -1,0 +1,47 @@
+D:\Visual Studio的工程文件\SJmedia\Web\bin\Web.dll
+D:\Visual Studio的工程文件\SJmedia\Web\bin\Web.pdb
+D:\Visual Studio的工程文件\SJmedia\Web\obj\Debug\Web.dll
+D:\Visual Studio的工程文件\SJmedia\Web\obj\Debug\Web.pdb
+D:\Visual Studio的工程文件\SJmedia\Web\bin\BusinessLogicLayer.dll
+D:\Visual Studio的工程文件\SJmedia\Web\bin\DALFactory.dll
+D:\Visual Studio的工程文件\SJmedia\Web\bin\SQLSeverDAL.dll
+D:\Visual Studio的工程文件\SJmedia\Web\bin\Model.dll
+D:\Visual Studio的工程文件\SJmedia\Web\bin\IDataAccessLayer.dll
+D:\Visual Studio的工程文件\SJmedia\Web\bin\BusinessLogicLayer.pdb
+D:\Visual Studio的工程文件\SJmedia\Web\bin\DALFactory.pdb
+D:\Visual Studio的工程文件\SJmedia\Web\bin\SQLSeverDAL.pdb
+D:\Visual Studio的工程文件\SJmedia\Web\bin\Model.pdb
+D:\Visual Studio的工程文件\SJmedia\Web\bin\IDataAccessLayer.pdb
+D:\Visual Studio的工程文件\SJmedia\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\Web.dll
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\Web.pdb
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\BusinessLogicLayer.dll
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\DALFactory.dll
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\SQLSeverDAL.dll
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\Model.dll
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\IDataAccessLayer.dll
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\BusinessLogicLayer.pdb
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\DALFactory.pdb
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\SQLSeverDAL.pdb
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\Model.pdb
+C:\Users\Administrator\Desktop\SJmedia\Web\bin\IDataAccessLayer.pdb
+C:\Users\Administrator\Desktop\SJmedia\Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SJmedia\Web\obj\Debug\Web.dll
+C:\Users\Administrator\Desktop\SJmedia\Web\obj\Debug\Web.pdb
+F:\SJmedia\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+F:\SJmedia\Web\bin\Web.dll
+F:\SJmedia\Web\bin\Web.pdb
+F:\SJmedia\Web\bin\BusinessLogicLayer.dll
+F:\SJmedia\Web\bin\DALFactory.dll
+F:\SJmedia\Web\bin\Model.dll
+F:\SJmedia\Web\bin\IDataAccessLayer.dll
+F:\SJmedia\Web\bin\BusinessLogicLayer.pdb
+F:\SJmedia\Web\bin\DALFactory.pdb
+F:\SJmedia\Web\bin\Model.pdb
+F:\SJmedia\Web\bin\IDataAccessLayer.pdb
+F:\SJmedia\Web\obj\Debug\Web.dll
+F:\SJmedia\Web\obj\Debug\Web.pdb
+F:\SJmedia\Web\bin\Common.dll
+F:\SJmedia\Web\bin\Common.pdb
+F:\SJmedia\Web\bin\SQLSeverDAL.dll
+F:\SJmedia\Web\bin\SQLSeverDAL.pdb

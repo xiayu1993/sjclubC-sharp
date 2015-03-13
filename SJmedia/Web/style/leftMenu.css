@@ -1,0 +1,56 @@
+﻿body 
+{
+     padding:0px;
+     margin:0px;
+     background: #282823;
+}
+
+.menu_lab
+{
+    background: #282823;
+    padding:0px 0px;
+}
+
+.menu_lab:hover
+{
+    cursor:pointer;
+}
+
+.menu_lab span
+{
+    color:#fff;
+    padding:15px 15px;
+    display:block
+}
+
+.menu_a
+{
+    background: #101010;
+    padding:15px 25px;
+}
+
+.menu_a:hover
+{
+    cursor:pointer;
+}
+
+.menu_a a
+{
+    text-decoration:none;
+    color:#fff;
+    display:block
+}
+
+.menu_a a:hover
+{
+    text-decoration:none;
+    color: #d84c31;
+}
+
+.hr_black
+{
+    padding:0px;
+    margin:0px;
+    border-top: solid 1px black;
+    border-bottom: solid 1px #646668;
+}

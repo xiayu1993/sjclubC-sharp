@@ -1,0 +1,28 @@
+D:\Visual Studio的工程文件\SJmedia\DataAccessLayer\bin\Debug\IDataAccessLayer.dll
+D:\Visual Studio的工程文件\SJmedia\DataAccessLayer\bin\Debug\IDataAccessLayer.pdb
+D:\Visual Studio的工程文件\SJmedia\DataAccessLayer\bin\Debug\Model.dll
+D:\Visual Studio的工程文件\SJmedia\DataAccessLayer\bin\Debug\Model.pdb
+D:\Visual Studio的工程文件\SJmedia\DataAccessLayer\obj\Debug\IDataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Visual Studio的工程文件\SJmedia\DataAccessLayer\obj\Debug\IDataAccessLayer.dll
+D:\Visual Studio的工程文件\SJmedia\DataAccessLayer\obj\Debug\IDataAccessLayer.pdb
+D:\Visual Studio的工程文件\SJmedia\IDataAccessLayer\bin\Debug\IDataAccessLayer.dll
+D:\Visual Studio的工程文件\SJmedia\IDataAccessLayer\bin\Debug\IDataAccessLayer.pdb
+D:\Visual Studio的工程文件\SJmedia\IDataAccessLayer\bin\Debug\Model.dll
+D:\Visual Studio的工程文件\SJmedia\IDataAccessLayer\bin\Debug\Model.pdb
+D:\Visual Studio的工程文件\SJmedia\IDataAccessLayer\obj\Debug\IDataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Visual Studio的工程文件\SJmedia\IDataAccessLayer\obj\Debug\IDataAccessLayer.dll
+D:\Visual Studio的工程文件\SJmedia\IDataAccessLayer\obj\Debug\IDataAccessLayer.pdb
+C:\Users\Administrator\Desktop\SJmedia\IDataAccessLayer\bin\Debug\IDataAccessLayer.dll
+C:\Users\Administrator\Desktop\SJmedia\IDataAccessLayer\bin\Debug\IDataAccessLayer.pdb
+C:\Users\Administrator\Desktop\SJmedia\IDataAccessLayer\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\SJmedia\IDataAccessLayer\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\SJmedia\IDataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SJmedia\IDataAccessLayer\obj\Debug\IDataAccessLayer.dll
+C:\Users\Administrator\Desktop\SJmedia\IDataAccessLayer\obj\Debug\IDataAccessLayer.pdb
+F:\SJmedia\IDataAccessLayer\bin\Debug\IDataAccessLayer.dll
+F:\SJmedia\IDataAccessLayer\bin\Debug\IDataAccessLayer.pdb
+F:\SJmedia\IDataAccessLayer\bin\Debug\Model.dll
+F:\SJmedia\IDataAccessLayer\bin\Debug\Model.pdb
+F:\SJmedia\IDataAccessLayer\obj\Debug\IDataAccessLayer.csprojResolveAssemblyReference.cache
+F:\SJmedia\IDataAccessLayer\obj\Debug\IDataAccessLayer.dll
+F:\SJmedia\IDataAccessLayer\obj\Debug\IDataAccessLayer.pdb

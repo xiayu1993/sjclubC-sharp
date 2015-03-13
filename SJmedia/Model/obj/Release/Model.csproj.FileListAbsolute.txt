@@ -1,0 +1,4 @@
+F:\SJmedia\Model\bin\Release\Model.dll
+F:\SJmedia\Model\bin\Release\Model.pdb
+F:\SJmedia\Model\obj\Release\Model.dll
+F:\SJmedia\Model\obj\Release\Model.pdb

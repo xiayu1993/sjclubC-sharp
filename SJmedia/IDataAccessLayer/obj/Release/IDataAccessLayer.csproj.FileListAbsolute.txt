@@ -1,0 +1,7 @@
+F:\SJmedia\IDataAccessLayer\bin\Release\IDataAccessLayer.dll
+F:\SJmedia\IDataAccessLayer\bin\Release\IDataAccessLayer.pdb
+F:\SJmedia\IDataAccessLayer\bin\Release\Model.dll
+F:\SJmedia\IDataAccessLayer\bin\Release\Model.pdb
+F:\SJmedia\IDataAccessLayer\obj\Release\IDataAccessLayer.csprojResolveAssemblyReference.cache
+F:\SJmedia\IDataAccessLayer\obj\Release\IDataAccessLayer.dll
+F:\SJmedia\IDataAccessLayer\obj\Release\IDataAccessLayer.pdb

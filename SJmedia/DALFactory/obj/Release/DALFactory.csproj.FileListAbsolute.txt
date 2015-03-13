@@ -1,0 +1,13 @@
+F:\SJmedia\DALFactory\bin\Release\DALFactory.dll
+F:\SJmedia\DALFactory\bin\Release\DALFactory.pdb
+F:\SJmedia\DALFactory\bin\Release\IDataAccessLayer.dll
+F:\SJmedia\DALFactory\bin\Release\SQLSeverDAL.dll
+F:\SJmedia\DALFactory\bin\Release\Model.dll
+F:\SJmedia\DALFactory\bin\Release\Common.dll
+F:\SJmedia\DALFactory\bin\Release\IDataAccessLayer.pdb
+F:\SJmedia\DALFactory\bin\Release\SQLSeverDAL.pdb
+F:\SJmedia\DALFactory\bin\Release\Model.pdb
+F:\SJmedia\DALFactory\bin\Release\Common.pdb
+F:\SJmedia\DALFactory\obj\Release\DALFactory.csprojResolveAssemblyReference.cache
+F:\SJmedia\DALFactory\obj\Release\DALFactory.dll
+F:\SJmedia\DALFactory\obj\Release\DALFactory.pdb

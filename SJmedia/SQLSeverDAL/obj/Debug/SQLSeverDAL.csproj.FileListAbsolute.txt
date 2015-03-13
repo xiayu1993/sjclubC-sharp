@@ -1,0 +1,38 @@
+D:\Visual Studio的工程文件\SJmedia\ISQLSeverDAL\bin\Debug\SQLSeverDAL.dll
+D:\Visual Studio的工程文件\SJmedia\ISQLSeverDAL\bin\Debug\SQLSeverDAL.pdb
+D:\Visual Studio的工程文件\SJmedia\ISQLSeverDAL\bin\Debug\IDataAccessLayer.dll
+D:\Visual Studio的工程文件\SJmedia\ISQLSeverDAL\bin\Debug\Model.dll
+D:\Visual Studio的工程文件\SJmedia\ISQLSeverDAL\bin\Debug\IDataAccessLayer.pdb
+D:\Visual Studio的工程文件\SJmedia\ISQLSeverDAL\bin\Debug\Model.pdb
+D:\Visual Studio的工程文件\SJmedia\ISQLSeverDAL\obj\Debug\SQLSeverDAL.csprojResolveAssemblyReference.cache
+D:\Visual Studio的工程文件\SJmedia\ISQLSeverDAL\obj\Debug\SQLSeverDAL.dll
+D:\Visual Studio的工程文件\SJmedia\ISQLSeverDAL\obj\Debug\SQLSeverDAL.pdb
+D:\Visual Studio的工程文件\SJmedia\SQLSeverDAL\bin\Debug\SQLSeverDAL.dll
+D:\Visual Studio的工程文件\SJmedia\SQLSeverDAL\bin\Debug\SQLSeverDAL.pdb
+D:\Visual Studio的工程文件\SJmedia\SQLSeverDAL\bin\Debug\IDataAccessLayer.dll
+D:\Visual Studio的工程文件\SJmedia\SQLSeverDAL\bin\Debug\Model.dll
+D:\Visual Studio的工程文件\SJmedia\SQLSeverDAL\bin\Debug\IDataAccessLayer.pdb
+D:\Visual Studio的工程文件\SJmedia\SQLSeverDAL\bin\Debug\Model.pdb
+D:\Visual Studio的工程文件\SJmedia\SQLSeverDAL\obj\Debug\SQLSeverDAL.csprojResolveAssemblyReference.cache
+D:\Visual Studio的工程文件\SJmedia\SQLSeverDAL\obj\Debug\SQLSeverDAL.dll
+D:\Visual Studio的工程文件\SJmedia\SQLSeverDAL\obj\Debug\SQLSeverDAL.pdb
+C:\Users\Administrator\Desktop\SJmedia\SQLSeverDAL\bin\Debug\SQLSeverDAL.dll
+C:\Users\Administrator\Desktop\SJmedia\SQLSeverDAL\bin\Debug\SQLSeverDAL.pdb
+C:\Users\Administrator\Desktop\SJmedia\SQLSeverDAL\bin\Debug\IDataAccessLayer.dll
+C:\Users\Administrator\Desktop\SJmedia\SQLSeverDAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\SJmedia\SQLSeverDAL\bin\Debug\IDataAccessLayer.pdb
+C:\Users\Administrator\Desktop\SJmedia\SQLSeverDAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\SJmedia\SQLSeverDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SJmedia\SQLSeverDAL\obj\Debug\SQLSeverDAL.dll
+C:\Users\Administrator\Desktop\SJmedia\SQLSeverDAL\obj\Debug\SQLSeverDAL.pdb
+F:\SJmedia\SQLSeverDAL\obj\Debug\SQLSeverDAL.csprojResolveAssemblyReference.cache
+F:\SJmedia\SQLSeverDAL\obj\Debug\SQLSeverDAL.pdb
+F:\SJmedia\SQLSeverDAL\bin\Debug\SQLSeverDAL.dll
+F:\SJmedia\SQLSeverDAL\bin\Debug\SQLSeverDAL.pdb
+F:\SJmedia\SQLSeverDAL\bin\Debug\IDataAccessLayer.dll
+F:\SJmedia\SQLSeverDAL\bin\Debug\Model.dll
+F:\SJmedia\SQLSeverDAL\bin\Debug\IDataAccessLayer.pdb
+F:\SJmedia\SQLSeverDAL\bin\Debug\Model.pdb
+F:\SJmedia\SQLSeverDAL\obj\Debug\SQLSeverDAL.dll
+F:\SJmedia\SQLSeverDAL\bin\Debug\Common.dll
+F:\SJmedia\SQLSeverDAL\bin\Debug\Common.pdb
